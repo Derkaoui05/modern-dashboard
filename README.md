@@ -6,13 +6,11 @@
     <p>
         Build a Modern Dashboard UI Design using React JS, TailwindCSS.
 </p>
-<a href="https://youtu.be/uHxZMmvQXHQ">Watch Tutorial</a>
 
 </div>
 
 <br />
 
-![Dashboard UI Design](./public/Dashboard%20UI%20Design.png)
 
 ## 🗒️ Table of Contents
 
@@ -49,14 +47,14 @@ To get started follow these steps:
 Using CLI
 
 ```bash
-git clone https://github.com/xdcode2/dashboard-ui-design.git
+git clone https://github.com/Derkaoui05/modern-dashboard.git
 ```
 
 **\*\*_Ensure you have installed [Git](https://git-scm.com) on your machine._**
 
 or using GitHub:
 
--   Go to the project [repository](https://github.com/xdcode2/dashboard-ui-design) on my GitHub page
+-   Go to the project [repository](https://github.com/Derkaoui05/modern-dashboard) on my GitHub page
 -   Click on the green button on the top 👆
 -   Click Download ZIP
 
